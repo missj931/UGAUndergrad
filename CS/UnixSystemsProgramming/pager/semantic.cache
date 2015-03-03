@@ -1,0 +1,30 @@
+;; Object syscalls3/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "syscalls3/"
+  :tables (list 
+   (semanticdb-table "pager.c"
+    :major-mode 'c-mode
+    :tags '(("_GNU_SOURCE" variable (:constant-flag t) nil [202 223]) ("stdio.h" include (:system-flag t) nil [222 240]) ("stdlib.h" include (:system-flag t) nil [241 260]) ("string.h" include (:system-flag t) nil [261 280]) ("unistd.h" include (:system-flag t) nil [281 300]) ("signal.h" include (:system-flag t) nil [301 320]) ("sys/types.h" include (:system-flag t) nil [321 343]) ("sys/wait.h" include (:system-flag t) nil [344 365]) ("main" function (:type "int") nil [367 1284]))
+    :file "pager.c"
+    :pointmax 1295
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "Makefile"
+    :major-mode 'makefile-gmake-mode
+    :tags '(("CC" variable (:default-value ("gcc")) nil [1 8]) ("DEBUG" variable (:default-value ("-g" "-O0")) nil [8 21]) ("CFLAGS" variable (:default-value ("$(DEBUG)" "-std=c11")) nil [21 46]) ("LFLAGS" variable (:default-value ("$(DEBUG)" "-std=c11")) nil [46 71]) ("COMPILE" variable (:default-value ("$(CC)" "$(CFLAGS)" "-c")) nil [72 99]) ("LINK" variable (:default-value ("$(CC)" "$(LFLAGS)")) nil [99 120]) (".PHONY" function (:arguments ("all" "clean")) nil [121 140]) ("all" function (:arguments ("pager")) nil [140 152]) ("pager" function (:arguments ("pager.o")) nil [152 194]) ("pager.o" function (:arguments ("pager.c")) nil [194 232]) ("clean" function nil nil [232 266]))
+    :file "Makefile"
+    :pointmax 266
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "pager2.c"
+    :major-mode 'c-mode
+    :tags '(("_GNU_SOURCE" variable (:constant-flag t) nil [2 23]) ("stdio.h" include (:system-flag t) nil [22 40]) ("stdlib.h" include (:system-flag t) nil [41 60]) ("string.h" include (:system-flag t) nil [61 80]) ("unistd.h" include (:system-flag t) nil [81 100]) ("signal.h" include (:system-flag t) nil [101 120]) ("sys/types.h" include (:system-flag t) nil [121 143]) ("sys/wait.h" include (:system-flag t) nil [144 165]) ("main" function (:type "int") nil [167 1461]))
+    :file "pager2.c"
+    :pointmax 1471
+    :unmatched-syntax 'nil
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0beta3"
+  :semanticdb-version "2.0beta3"
+  )
