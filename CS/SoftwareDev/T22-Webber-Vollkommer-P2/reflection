@@ -1,0 +1,31 @@
+we added more methods to the Hangman class than originally expected.
+the Hangman class's main method was becoming to large. It was easier
+to implement and call upon more methods following main.
+
+We decided to create a new and seperate parent class for the AI
+files. This allowed for the structure of the player and its subclasses
+much clearer and easier to follow. The cutthroat player and the 
+AI accept different input than than the methods found in the player
+classes and it's sub classes.
+
+We also decided not to have methods that checked for the validity of
+the argument in each of the player's subclasses. It reduced redundant code
+to make a method which checked argument validity and and method for submitting
+arguments in the HangmanBoard.
+
+Changes in the interface reflect changes made in the HangmanBoard.
+We also moved the constant of acceptable characters array from the
+HangmanBoard class to the Board Interface. We felt that the acceptable
+characters was not unique to our board, but should be implemented by all
+Hangman boards.
+
+we originnally planned on having functionality to allow for guessing words.
+We decided this was unneccesary and overly complicated and drastically
+increased the scope of the project. We will probably meet again after
+the break to work to add in that functionality to the human player.
+
+we also created our own class which allowed for sending output
+to the file and to the console. We decided that it was the easiest
+way to gain said functionality.
+
+Over all we feel this was an enjoyable and helpful project.

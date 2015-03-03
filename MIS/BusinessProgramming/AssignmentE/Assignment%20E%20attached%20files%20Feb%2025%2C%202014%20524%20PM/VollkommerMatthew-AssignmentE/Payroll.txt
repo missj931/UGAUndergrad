@@ -1,0 +1,10 @@
+112,John Madden,46,8.00,H
+117,Mary Jasons,30,8.50,S
+123,Ed Trumbell,39,9.00,H
+124,June Bug,43,8.00,S
+132,Sue Magacetti,35,9.50,S
+145,Rider Spider,40,8.5,H
+156,Sky Fly,38,7.5,H
+235,Mike Moore,45,10.55,H
+256,Horace Green,42,26.00,S
+267,Matilda Hatch,35,15.00,H

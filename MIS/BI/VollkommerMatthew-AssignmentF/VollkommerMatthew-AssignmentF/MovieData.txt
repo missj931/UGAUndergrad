@@ -1,0 +1,11 @@
+1234,The Silence of the Lambs,234,20120906,3.00,45
+1235,Aviator                 ,0,0,2.50,42
+1236,The Triplets of Bellview,234,20120921,2.75,35
+1237,Star Wars               ,235,20120909,3.00,281
+1238,Lord of the Rings I     ,235,20120922,3.00,105
+1345,The Unforgiven          ,0,0,3.00,45
+1348,Enemy at the Gate       ,234,20120925,3.00,51
+1454,First Wives Club        ,0,0,2.00,35
+1567,Deja Vu                 ,111,20120905,2.75,41
+1569,The English Patient     ,0,0,2.50,49
+1573,Thunder Road            ,111,20120929,2.00,26

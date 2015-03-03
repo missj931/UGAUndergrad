@@ -1,0 +1,8 @@
+1234,The Silence of the Lambs,Director A  ,2.50,234,20131026
+1235,Aviator                 ,Dircetor B  ,2.50,0,0
+1236,The Triplets of Bellview,Director C  ,2.50,235,20131021
+1237,Star Wars               ,Speilberg   ,2.50,235,20131020
+1238,Lord of the Rings I     ,Director D  ,2.50,232,20131022
+1345,The Unforgiven          ,Eastman     ,3.00,0,0
+1348,Enemy at the Gate       ,Director E  ,3.00,234,20131025
+1454,First Wives Club        ,Director F  ,2.50,0,0

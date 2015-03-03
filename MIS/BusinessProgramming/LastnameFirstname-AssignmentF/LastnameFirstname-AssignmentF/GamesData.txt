@@ -1,0 +1,8 @@
+2244,Harry Potter Sorc Stone ,WindowsXP   ,2.50,236,20081026
+2245,Harry Potter Sorc Stone ,GameBoy     ,2.50,0,0
+2246,Harry Potter Pris of Azk,WindowsXP   ,2.50,236,20080921
+2247,Grand Theft Auto        ,Sega        ,2.50,232,20081020
+2248,Lord of the Rings I     ,GameBoy     ,2.50,237,20081022
+2355,Star Wars Revenge of Jed,WindowsXP   ,3.00,0,0
+2358,Myst                    ,WindowsXP   ,3.00,234,20080925
+2464,Riven                   ,WindowsXP   ,2.50,0,0

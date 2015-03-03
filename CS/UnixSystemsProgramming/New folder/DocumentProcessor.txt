@@ -1,0 +1,18 @@
+package project5.documentprocessing;
+
+import project5.documentprocessing.data.Document;
+
+public class DocumentProcessor {
+
+	public static void main(String[] args) {
+		if (args.length == 1) {
+			Document d = new Document(args[0]);					
+			System.out.println(d);
+		}
+		else {
+			System.out.println("Must provide an url as command-line argument.");
+		}
+
+	}
+
+}

@@ -1,0 +1,4 @@
+111,Donald Duck     ,549-8765,0
+232,Ronald Reagan   ,304-5959,20.0
+234,Wild Bill Hickok,547-4736,2000.00
+235,William Frist   ,342-3344,10.00

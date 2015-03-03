@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Store()
+comment0.text=\n\ Create\ the\ store.\ This\ means\ set\ up\ the\ ArrayList\ for\ movies.\n
+comment1.params=
+comment1.target=void\ readFromMovieFile()
+comment1.text=\n\ Read\ initial\ movie\ info\ from\ file.\n
+comment2.params=
+comment2.target=void\ readFromGameFile()
+comment2.text=\n\ Read\ initial\ game\ info\ from\ file.\n
+comment3.params=
+comment3.target=void\ listAllItems()
+comment3.text=\n\ .ListAllItems.\n\ List\ all\ movies\ in\ the\ system.\n
+numComments=4

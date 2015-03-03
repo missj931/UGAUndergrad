@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ClockDisplay()
+comment0.text=\n\ Constructor\ for\ ClockDisplay\ objects.\ This\ constructor\ \n\ creates\ a\ new\ clock\ set\ at\ 00\:00.\n
+comment1.params=hour\ minute
+comment1.target=ClockDisplay(int,\ int)
+comment1.text=\n\ Constructor\ for\ ClockDisplay\ objects.\ This\ constructor\n\ creates\ a\ new\ clock\ set\ at\ the\ time\ specified\ by\ the\ \n\ parameters.\n
+comment2.params=hour\ minute\ second
+comment2.target=ClockDisplay(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ timeTick()
+comment3.text=\n\ Modify\ the\ timeTick\ method\ to\ increment\ the\ ClockDisplay\ by\ one\ second.\ \n\ This\ is\ a\ bit\ tricky.\ Exercise\ caution.\n
+comment4.params=
+comment4.target=void\ timeTickMinute()
+comment4.text=\n\ First,\ copy\ method\ timeTick\ and\ rename\ the\ copied\ method\ timeTickMinute.\ \n\ This\ way\ you\ can\ tick\ either\ by\ a\ minute\ or\ by\ a\ second.\ Method\ timeTick\ \n\ will\ increment\ by\ one\ second;\ method\ timeTickMinute\ will\ increment\ by\ one\ minute.\ \n\ (You\ could\ write\ a\ timeTickHour\ method\ as\ well\ for\ better\ functionality.)\n
+comment5.params=hour\ minute\ second
+comment5.target=void\ setTime(int,\ int,\ int)
+comment5.text=\n\ Set\ the\ time\ of\ the\ display\ to\ the\ specified\ hour\ and\n\ minute.\n
+comment6.params=
+comment6.target=java.lang.String\ getTime()
+comment6.text=\n\ Return\ the\ current\ time\ of\ this\ display\ in\ the\ format\ HH\:MM.\n
+comment7.params=
+comment7.target=void\ updateDisplay()
+comment7.text=\n\ Update\ the\ internal\ String\ that\ represents\ the\ display.\n
+numComments=8

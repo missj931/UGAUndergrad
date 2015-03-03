@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Store()
+comment0.text=\r\n\ Constructor.\ Create\ the\ store.\ This\ means\ set\ up\ the\ ArrayList\ movies.\r\n
+comment1.params=
+comment1.target=void\ readFromMovieFile()
+comment1.text=\r\n\ .readFromMovieFile.\r\n\ Read\ initial\ movie\ info\ from\ file.\r\n
+comment2.params=index
+comment2.target=void\ printAllMovieInfoForThisMovie(int)
+comment2.text=\r\n\ \ .printAllMovieInfoForThisMovie.\r\n\ \ Given\ the\ index\ in\ the\ ArrayList\ movies\ for\ a\ particular\ movie,\ \r\n\ \ print\ all\ info\ for\ this\ movie.\r\n
+comment3.params=
+comment3.target=void\ listMoviesWithWhile()
+comment3.text=\r\n\ .listMoviesWithWhile.\r\n\ List\ all\ movies\ in\ the\ system\ with\ a\ while\ loop\r\n
+numComments=4

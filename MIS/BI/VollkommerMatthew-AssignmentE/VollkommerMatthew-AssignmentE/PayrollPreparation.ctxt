@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PayrollPreparation()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ PayrollPreparation\n
+comment1.params=
+comment1.target=void\ printEmployeeData()
+comment1.text=\n\ .printEmployeeData.\ All\ work\ is\ to\ be\ done\ here.\n\ \ \ \ There\ are\ no\ fields\ (instance\ variables/attributes/global\ variables).\n\ \n\ Read\ the\ data\ line\ by\ line\ and\ print\ out\ the\ relevant\ data\ with\ computations.\n\ \n\ Dr.\ Janine\ E.\ Aronson\ Solution\ to\ Assignment\ E\:\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pWall\ pWindow\ pRoof
+comment0.target=House(Square,\ Square,\ Triangle)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ House\r\n
+comment1.params=
+comment1.target=Square\ getWall()
+comment2.params=
+comment2.target=Square\ getWindow()
+comment3.params=
+comment3.target=Triangle\ getRoof()
+numComments=4
