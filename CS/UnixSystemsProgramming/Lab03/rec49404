@@ -1,0 +1,10 @@
+lab03:
+total 24
+-rwxrwxrwx. 1 ugrad  771 Jul 10 14:42 degrees.c
+-rwxrwxrwx. 1 ugrad 2060 Jul 10 14:42 endtime.c
+-rwxrwxrwx. 1 ugrad  749 Jul 10 14:43 Makefile
+-rwxrwxrwx. 1 ugrad 1446 Jul 10 14:42 minmax.c
+-rw-r--r--. 1 ugrad    0 Jul 10 14:47 rec49404
+-rwxrwxrwx. 1 ugrad 1224 Jul 10 14:42 stat.c
+-rwxrwxrwx. 1 ugrad  741 Jul 10 14:42 time.c
+/home/ugrads/vollkomm/cs1730/lab03:/home/work/cs1730

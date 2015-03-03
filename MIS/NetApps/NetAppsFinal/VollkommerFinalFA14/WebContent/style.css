@@ -1,0 +1,99 @@
+@CHARSET "ISO-8859-1";
+
+/****Large head ****/
+h1 {
+	padding-left: 25px;
+	font-family: cursive;
+	color: black;
+	font-size: 95px;
+	text-align: left;
+	border-color: black;
+	background-color: red;
+}
+
+/*** paragraphs ***/
+p {
+	padding-right: 25px;
+	font-family: cursive;
+	color: black;
+	text-align: left;
+}
+
+/******* Links *************************/
+
+/** unvisited link */
+a:link {
+	color: red;
+	font-family: cursive;
+}
+
+/* visited link */
+a:visited {
+	color: red;
+	font-family: cursive;
+}
+
+/* mouse over link */
+a:hover {
+	color: white;
+	font-family: cursive;
+}
+
+/* selected link */
+a:active {
+	color: white;
+	font-family: cursive;
+}
+/****End Links ***************************/
+
+/**Lists *************************************/
+/** Unorderd List *******/
+ul {
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+	right: 155px;
+}
+
+/** list element ***************/
+ul li {
+	display: inline;
+	border: 2px solid #000000;
+	font-family: cursive;
+	font-size: 23px;
+	color: black;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: black;
+}
+
+ol {
+	list-style-type: disc;
+}
+
+ol li {
+	font-family: cursive;
+}
+/****** navigatoin class *************/
+nav {
+	position: relative;
+	background-color: red;
+	margin: 0;
+	padding: 0px;
+	border: 15px;
+	border-style: solid;
+	border-color: #333;
+	top: 0px;
+	left: 0;
+	right: 0;;
+}
+
+h3 {
+	border: 2px solid #000000;
+	font-family: cursive;
+	font-size: 23px;
+	color: WHITE;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: black;
+}

@@ -1,0 +1,102 @@
+$ ./p2
+
+
+
+
+          Employee Payroll Processing           
+          ---------------------------           
+                                                
+Options:                                        
+  1 -  Read payroll batch file                  
+  2 -  Generate paychecks                       
+  3 -  Generate report                          
+  4 -  Exit                                     
+                                                
+ Enter number of menu choice => 1
+ Enter in a batch file name: payroll.input.txt
+
+
+
+          Employee Payroll Processing           
+          ---------------------------           
+                                                
+Options:                                        
+  1 -  Read payroll batch file                  
+  2 -  Generate paychecks                       
+  3 -  Generate report                          
+  4 -  Exit                                     
+                                                
+ Enter number of menu choice => 2
+ Generating Checks 
+
+
+
+Fred worked 20.00 hours at $7.50 per hour 
+Gross:     $  150.00
+Taxes:     $   22.50
+Net:       $  127.50
+
+Bob worked 40.00 hours at $8.50 per hour 
+Gross:     $  340.00
+Taxes:     $   51.00
+Net:       $  289.00
+
+Mary worked 37.50 hours at $9.00 per hour 
+Gross:     $  337.50
+Taxes:     $   50.62
+Net:       $  286.88
+
+Sue worked 30.00 hours at $6.50 per hour 
+Gross:     $  195.00
+Taxes:     $   29.25
+Net:       $  165.75
+
+
+
+
+
+          Employee Payroll Processing           
+          ---------------------------           
+                                                
+Options:                                        
+  1 -  Read payroll batch file                  
+  2 -  Generate paychecks                       
+  3 -  Generate report                          
+  4 -  Exit                                     
+                                                
+ Enter number of menu choice => 3
+
+ Reports 
+
+Highest Earning Employee: 
+Bob worked 40.00 hours at $8.50 per hour 
+
+Lowest Earning Employee: 
+Fred worked 20.00 hours at $7.50 per hour 
+
+Totals: 
+Total Gross Pay $ 1022.50
+Total Tax       $ 153.38
+Total Net Pay   $ 869.12
+
+Averages: 
+Average Gross Pay $ 255.62
+Average Tax       $  38.34
+Average Net Pay   $ 217.28
+
+
+
+
+
+          Employee Payroll Processing           
+          ---------------------------           
+                                                
+Options:                                        
+  1 -  Read payroll batch file                  
+  2 -  Generate paychecks                       
+  3 -  Generate report                          
+  4 -  Exit                                     
+                                                
+ Enter number of menu choice => 4
+
+$
